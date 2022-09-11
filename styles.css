@@ -6,13 +6,17 @@ body{
     background-attachment: fixed;
     background-size: cover;
     background-size: 100% 100%;
+    /* canh giua */
+    width: 20%;
+    height: 20%;
+    margin: auto;
 }
-table, tr, td {  
+/* table, tr, td {  
     border: 1px solid green;  
     border-collapse: collapse;
     padding: 10px;
     
-}
+} */
 /* ten bang */
 th{
     font-size: 25px;

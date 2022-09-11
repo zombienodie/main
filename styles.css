@@ -26,10 +26,6 @@ th{
     /*doi mau*/
     animation: doimau 10s infinite;
 }
-hr{
-     /*doi mau*/
-    animation: doimau 5s infinite;
-}
 a{
     background-color: #fff;
     color: blue;
